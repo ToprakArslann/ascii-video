@@ -7,7 +7,7 @@ Basic video to ascii converter using OpenCV.
 1. Clone the repository:
 ```bash
 git clone https://github.com/ToprakArslann/ascii-video
-cd insta-scraper
+cd ascii-video
 ```
 
 2. Install required package:
