@@ -1,4 +1,4 @@
-# Instagram Profile Scraper
+# VIDEO TO ASCII CONVERTER
 
 Basic video to ascii converter using OpenCV.
 
